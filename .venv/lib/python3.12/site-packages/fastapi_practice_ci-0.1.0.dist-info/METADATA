@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: fastapi-practice-ci
+Version: 0.1.0
+Requires-Python: >=3.11
+Requires-Dist: fastapi>=0.110
+Requires-Dist: uvicorn>=0.27
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: httpx>=0.27; extra == "dev"
+Requires-Dist: ruff>=0.4; extra == "dev"
+Requires-Dist: bandit>=1.7; extra == "dev"

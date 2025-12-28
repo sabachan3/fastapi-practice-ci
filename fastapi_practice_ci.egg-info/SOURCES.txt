@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+app/init.py
+app/main.py
+app/models.py
+fastapi_practice_ci.egg-info/PKG-INFO
+fastapi_practice_ci.egg-info/SOURCES.txt
+fastapi_practice_ci.egg-info/dependency_links.txt
+fastapi_practice_ci.egg-info/requires.txt
+fastapi_practice_ci.egg-info/top_level.txt
+tests/test_main.py
